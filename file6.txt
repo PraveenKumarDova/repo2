@@ -1,2 +1,3 @@
 
 Demo for conflict scenario
+same file6.txt created in LR 
